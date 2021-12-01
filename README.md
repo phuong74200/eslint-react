@@ -1,1 +1,1 @@
-eslint for react frame
+eslint for react
