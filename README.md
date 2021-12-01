@@ -1,1 +1,1 @@
-eslint for react
+eslint & react
